@@ -11,14 +11,14 @@ how much on average to start
 wants to guess what he can earn.
 
 
-# Dataset Information:
+## Dataset Information:
 Persona.cs dataset sells an international gaming rig prices
 and you can write for users who buy these products.
 The dataset may consist of records created in his sale transaction.
 The meaning is not tabulated.
 In other words, a user with a certain demographic
 
-# Features :
+## Features :
 persona.csv
 - PRICE   : Customer spend amount
 - SOURCE  : The type of device the customer is connecting to
