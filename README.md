@@ -2,7 +2,7 @@
 ## Kural Tabanlı Sınıflandırma İle Müşteri Getirisi Hesaplama
 ![john-schnobrich-FlPc9_VocJ4-unsplash](https://user-images.githubusercontent.com/81189969/145985442-fd155ab6-6f7f-4b6d-9521-523e9ec099c1.jpg)
 
-# Business Problem :
+## Business Problem :
 Using the instructions of a game tutorial
 level-based (level-based) new customer definitions
 (persona) and these new customer definitions
