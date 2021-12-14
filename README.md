@@ -22,6 +22,6 @@ In other words, a user with a certain demographic
 persona.csv
 - PRICE   : Customer spend amount
 - SOURCE  : The type of device the customer is connecting to
-- SEX :   : Customer's gender
+- SEX     : Customer's gender
 - COUNTRY : Customer's country
 - AGE     : Customer's age
