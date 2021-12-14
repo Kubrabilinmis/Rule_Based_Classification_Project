@@ -1,5 +1,4 @@
-# Rule_Based_Classification_Project
-
+![john-schnobrich-FlPc9_VocJ4-unsplash](https://user-images.githubusercontent.com/81189969/145985442-fd155ab6-6f7f-4b6d-9521-523e9ec099c1.jpg)
 
 
 # İş Problemi :
