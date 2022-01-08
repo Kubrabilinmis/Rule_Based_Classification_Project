@@ -11,7 +11,7 @@ how much on average to start
 wants to guess what he can earn.
 
 
-## Dataset Information:
+## Data Description :
 Persona.cs dataset sells an international gaming rig prices
 and you can write for users who buy these products.
 The dataset may consist of records created in his sale transaction.
